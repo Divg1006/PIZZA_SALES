@@ -1,3 +1,6 @@
+<img width="1267" height="611" alt="image" src="https://github.com/user-attachments/assets/a86f28b2-168b-4030-8562-7bf54cef3d19" />
+
+
 # Pizza Sales Data Analytics Project
 
 ## Project Overview  
