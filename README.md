@@ -1,7 +1,9 @@
+# Pizza Sales Data Analytics Project
+
 <img width="1267" height="611" alt="image" src="https://github.com/user-attachments/assets/a86f28b2-168b-4030-8562-7bf54cef3d19" />
 
 
-# Pizza Sales Data Analytics Project
+
 
 ## Project Overview  
 This project analyzes pizza sales data to uncover key business insights and drive data-driven decision-making. Using Microsoft SQL Server, I imported, cleaned, and structured the raw sales data to ensure accuracy and consistency. Advanced SQL queries were developed to calculate important KPIs such as total revenue, average order value, and best-selling products.
